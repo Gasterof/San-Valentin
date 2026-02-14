@@ -38,7 +38,7 @@ Modo Oscuro 🌑:
 - Intenta hacer clic en **"No"** — en el primer click se escala, después se mueve por toda la pantalla y muestra una imagen divertida.
 - Usa el botón **"Modo Oscuro 🌙"** para cambiar entre temas.
 
-![Vista previa de la galería](img/imgSVGalería.png)
+![Vista previa de la galería](img/gatitos.png)
 
 ## 🛠️ Tecnologías utilizadas
 
